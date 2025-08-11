@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-ios-ci-filters": ["../src/index"],
+      "expo-ios-ci-filters/*": ["../src/*"]
+    }
+  }
+}

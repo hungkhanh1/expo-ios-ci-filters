@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoIOSCIFiltersModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.ioscifilters.ExpoIOSCIFiltersModule"]
+  }
+}
