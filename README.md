@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cifilters.jpg" alt="Glow UI Poster" width="800" />
+  <img src="https://raw.githubusercontent.com/rit3zh/expo-ios-ci-filters/main/assets/cifilters.jpg" alt="Glow UI Poster" width="800" />
 </div>
 
 <h1 align="center">expo-ios-ci-filters</h1>
