@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0268FD57B214B86427464240 /* libPods-expoioscifiltersexample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E03D1489BA7C51907F9DA2D /* libPods-expoioscifiltersexample.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
+		92855094AAC36FA5D1ED378B /* libPods-expoioscifiltersexample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 27B16BF2A4FA7396E5889DF0 /* libPods-expoioscifiltersexample.a */; };
 		985DA0CEDE80B8D9F187B6E8 /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB69F8EECBD6C772116516F /* ExpoModulesProvider.swift */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
 		F11748422D0307B40044C1D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11748412D0307B40044C1D9 /* AppDelegate.swift */; };
@@ -17,15 +17,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0E03D1489BA7C51907F9DA2D /* libPods-expoioscifiltersexample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-expoioscifiltersexample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* expoioscifiltersexample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = expoioscifiltersexample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = expoioscifiltersexample/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = expoioscifiltersexample/Info.plist; sourceTree = "<group>"; };
-		3A31565D6F1E2492EBFCEA02 /* Pods-expoioscifiltersexample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-expoioscifiltersexample.debug.xcconfig"; path = "Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample.debug.xcconfig"; sourceTree = "<group>"; };
+		27B16BF2A4FA7396E5889DF0 /* libPods-expoioscifiltersexample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-expoioscifiltersexample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4605DEC3BEAC99C9DCC3BF51 /* Pods-expoioscifiltersexample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-expoioscifiltersexample.debug.xcconfig"; path = "Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample.debug.xcconfig"; sourceTree = "<group>"; };
 		5CC3CE5E36EC84C8EF9E77B0 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = expoioscifiltersexample/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		8758F62BD60F2F6F7369884C /* Pods-expoioscifiltersexample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-expoioscifiltersexample.release.xcconfig"; path = "Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample.release.xcconfig"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = expoioscifiltersexample/SplashScreen.storyboard; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
+		CA06EE3F32E07AB4B279E0BD /* Pods-expoioscifiltersexample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-expoioscifiltersexample.release.xcconfig"; path = "Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F11748412D0307B40044C1D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = expoioscifiltersexample/AppDelegate.swift; sourceTree = "<group>"; };
 		F11748442D0722820044C1D9 /* expoioscifiltersexample-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "expoioscifiltersexample-Bridging-Header.h"; path = "expoioscifiltersexample/expoioscifiltersexample-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0268FD57B214B86427464240 /* libPods-expoioscifiltersexample.a in Frameworks */,
+				92855094AAC36FA5D1ED378B /* libPods-expoioscifiltersexample.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,7 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				0E03D1489BA7C51907F9DA2D /* libPods-expoioscifiltersexample.a */,
+				27B16BF2A4FA7396E5889DF0 /* libPods-expoioscifiltersexample.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -81,6 +81,16 @@
 				FFB69F8EECBD6C772116516F /* ExpoModulesProvider.swift */,
 			);
 			name = expoioscifiltersexample;
+			sourceTree = "<group>";
+		};
+		71FA7547AE1CF8957C39FB59 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4605DEC3BEAC99C9DCC3BF51 /* Pods-expoioscifiltersexample.debug.xcconfig */,
+				CA06EE3F32E07AB4B279E0BD /* Pods-expoioscifiltersexample.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -97,8 +107,8 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				F6838BA39E7996230715C890 /* Pods */,
 				2C20277E90AC8C2288108E84 /* ExpoModulesProviders */,
+				71FA7547AE1CF8957C39FB59 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -122,16 +132,6 @@
 			path = expoioscifiltersexample/Supporting;
 			sourceTree = "<group>";
 		};
-		F6838BA39E7996230715C890 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3A31565D6F1E2492EBFCEA02 /* Pods-expoioscifiltersexample.debug.xcconfig */,
-				8758F62BD60F2F6F7369884C /* Pods-expoioscifiltersexample.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,14 +139,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "expoioscifiltersexample" */;
 			buildPhases = (
-				08A4A3CD28434E44B6B9DE2E /* [CP] Check Pods Manifest.lock */,
+				3F4E09BD0E9709D97272DD72 /* [CP] Check Pods Manifest.lock */,
 				617B538E510FF798B4C29316 /* [Expo] Configure project */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */,
-				16D80E82D1762408E865D530 /* [CP] Embed Pods Frameworks */,
+				353C720E7309DEA76D172B50 /* [CP] Embed Pods Frameworks */,
+				95FFD8D9F05799DBA49D1770 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -218,7 +218,25 @@
 			shellPath = /bin/sh;
 			shellScript = "if [[ -f \"$PODS_ROOT/../.xcode.env\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env\"\nfi\nif [[ -f \"$PODS_ROOT/../.xcode.env.local\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.local\"\nfi\n\n# The project root by default is one level up from the ios directory\nexport PROJECT_ROOT=\"$PROJECT_DIR\"/..\n\nif [[ \"$CONFIGURATION\" = *Debug* ]]; then\n  export SKIP_BUNDLING=1\nfi\nif [[ -z \"$ENTRY_FILE\" ]]; then\n  # Set the entry JS file using the bundler's entry resolution.\n  export ENTRY_FILE=\"$(\"$NODE_BINARY\" -e \"require('expo/scripts/resolveAppEntry')\" \"$PROJECT_ROOT\" ios absolute | tail -n 1)\"\nfi\n\nif [[ -z \"$CLI_PATH\" ]]; then\n  # Use Expo CLI\n  export CLI_PATH=\"$(\"$NODE_BINARY\" --print \"require.resolve('@expo/cli', { paths: [require.resolve('expo/package.json')] })\")\"\nfi\nif [[ -z \"$BUNDLE_COMMAND\" ]]; then\n  # Default Expo CLI command for bundling\n  export BUNDLE_COMMAND=\"export:embed\"\nfi\n\n# Source .xcode.env.updates if it exists to allow\n# SKIP_BUNDLING to be unset if needed\nif [[ -f \"$PODS_ROOT/../.xcode.env.updates\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.updates\"\nfi\n# Source local changes to allow overrides\n# if needed\nif [[ -f \"$PODS_ROOT/../.xcode.env.local\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.local\"\nfi\n\n`\"$NODE_BINARY\" --print \"require('path').dirname(require.resolve('react-native/package.json')) + '/scripts/react-native-xcode.sh'\"`\n\n";
 		};
-		08A4A3CD28434E44B6B9DE2E /* [CP] Check Pods Manifest.lock */ = {
+		353C720E7309DEA76D172B50 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework/hermes",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3F4E09BD0E9709D97272DD72 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -240,24 +258,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		16D80E82D1762408E865D530 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework/hermes",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-expoioscifiltersexample/Pods-expoioscifiltersexample-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		617B538E510FF798B4C29316 /* [Expo] Configure project */ = {
 			isa = PBXShellScriptBuildPhase;
 			alwaysOutOfDate = 1;
@@ -277,7 +277,7 @@
 			shellPath = /bin/sh;
 			shellScript = "# This script configures Expo modules and generates the modules provider file.\nbash -l -c \"./Pods/Target\\ Support\\ Files/Pods-expoioscifiltersexample/expo-configure-project.sh\"\n";
 		};
-		800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */ = {
+		95FFD8D9F05799DBA49D1770 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -326,7 +326,7 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3A31565D6F1E2492EBFCEA02 /* Pods-expoioscifiltersexample.debug.xcconfig */;
+			baseConfigurationReference = 4605DEC3BEAC99C9DCC3BF51 /* Pods-expoioscifiltersexample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -362,7 +362,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8758F62BD60F2F6F7369884C /* Pods-expoioscifiltersexample.release.xcconfig */;
+			baseConfigurationReference = CA06EE3F32E07AB4B279E0BD /* Pods-expoioscifiltersexample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;

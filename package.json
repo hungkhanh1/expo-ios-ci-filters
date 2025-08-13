@@ -1,7 +1,7 @@
 {
   "name": "expo-ios-ci-filters",
   "version": "0.1.0",
-  "description": "Testing for now.",
+  "description": "📸 iOS Core Image filters for Expo + React Native ✨",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
